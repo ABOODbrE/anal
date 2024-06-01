@@ -1,0 +1,3 @@
+/* <![CDATA[ */
+var _googlesitekitUserData = {"user":{"id":1,"email":"aboodfarag14@gmail.com","name":"Abood","picture":"https:\/\/lh3.googleusercontent.com\/a\/ACg8ocK70rME2h4IEFc632DkWJd7_47ZwLloshWWRmtI-ug7TN8gpg=s100","full_name":"abdallah farag"},"connectURL":"https:\/\/www.analnice.com\/wp-admin\/index.php?action=googlesitekit_connect&nonce=7235569575","hasMultipleAdmins":false,"initialVersion":"1.127.0","isUserInputCompleted":true,"verified":true};
+/* ]]> */
